@@ -2,14 +2,12 @@
   GITHUB PROFILE TEMPLATE — TẤN KHẢI EDITION
 
   HOW TO USE
-  1) Replace every YOUR_USERNAME with your actual GitHub username.
-  2) Keep this repository name exactly the same as your username.
-  3) Run the workflows once from the Actions tab.
+  GitHub profile README for TanKai-247.
 -->
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/profile-header.svg"
+    src="https://raw.githubusercontent.com/TanKai-247/TanKai-247/main/assets/profile-header.svg"
     width="100%"
     alt="Tấn Khải — Data Science & Machine Learning"
   />
@@ -25,8 +23,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=7c3aed" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=TanKai-247&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/TanKai-247?label=FOLLOWERS&style=for-the-badge&color=7c3aed" alt="Followers" />
 </p>
 
 ---
@@ -83,7 +81,7 @@ focus:
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/github-metrics.svg"
+    src="https://raw.githubusercontent.com/TanKai-247/TanKai-247/main/github-metrics.svg"
     width="100%"
     alt="GitHub metrics"
   />
@@ -97,7 +95,7 @@ focus:
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg"
+    src="https://raw.githubusercontent.com/TanKai-247/TanKai-247/main/profile-3d-contrib/profile-night-rainbow.svg"
     width="100%"
     alt="3D contribution graph"
   />
@@ -111,14 +109,14 @@ focus:
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/TanKai-247/TanKai-247/output/snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-light.svg"
+      srcset="https://raw.githubusercontent.com/TanKai-247/TanKai-247/output/snake-light.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg"
+      src="https://raw.githubusercontent.com/TanKai-247/TanKai-247/output/snake-dark.svg"
       width="100%"
       alt="Contribution snake"
     />
