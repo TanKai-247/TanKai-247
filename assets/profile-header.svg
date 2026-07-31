@@ -1,0 +1,79 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Tấn Khải — Data Science & Machine Learning</title>
+  <desc id="desc">A modern GitHub profile banner with a neon data science theme.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="40" y1="20" x2="1160" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.48" stop-color="#0B1633"/>
+      <stop offset="1" stop-color="#071A26"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="160" y1="70" x2="1040" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#7DD3FC" stroke-opacity="0.08"/>
+    </pattern>
+
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="10" y="10" width="1180" height="300" rx="24" fill="url(#bg)"/>
+  <rect x="10" y="10" width="1180" height="300" rx="24" fill="url(#grid)"/>
+  <rect x="10.75" y="10.75" width="1178.5" height="298.5" rx="23.25" stroke="url(#accent)" stroke-opacity="0.55" stroke-width="1.5"/>
+
+  <ellipse cx="1000" cy="130" rx="210" ry="130" fill="#22D3EE" fill-opacity="0.08" filter="url(#softGlow)"/>
+  <ellipse cx="170" cy="40" rx="220" ry="80" fill="#7C3AED" fill-opacity="0.10" filter="url(#softGlow)"/>
+
+  <circle cx="46" cy="40" r="5" fill="#FB7185"/>
+  <circle cx="64" cy="40" r="5" fill="#FBBF24"/>
+  <circle cx="82" cy="40" r="5" fill="#34D399"/>
+  <text x="106" y="45" fill="#94A3B8" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">profile://tan-khai/overview</text>
+
+  <rect x="58" y="78" width="690" height="195" rx="18" fill="#050713" fill-opacity="0.72" stroke="#334155" stroke-opacity="0.85"/>
+  <rect x="58" y="78" width="690" height="4" rx="2" fill="url(#accent)"/>
+
+  <text x="92" y="123" fill="#22D3EE" font-size="16" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">$ whoami</text>
+  <text x="92" y="175" fill="#F8FAFC" font-size="46" font-weight="800" font-family="Inter, ui-sans-serif, system-ui, sans-serif">TẤN KHẢI</text>
+  <text x="94" y="214" fill="#C4B5FD" font-size="19" font-weight="600" letter-spacing="1.4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">DATA SCIENCE · MACHINE LEARNING</text>
+  <text x="94" y="248" fill="#94A3B8" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">python | r | sql | c++</text>
+
+  <g stroke-linecap="round">
+    <path d="M820 96L900 76L990 110L1070 92" stroke="#7C3AED" stroke-opacity="0.55" stroke-width="2"/>
+    <path d="M820 96L875 165L990 110L1088 170" stroke="#22D3EE" stroke-opacity="0.62" stroke-width="2"/>
+    <path d="M875 165L940 236L1088 170L1118 236" stroke="#38BDF8" stroke-opacity="0.52" stroke-width="2"/>
+    <path d="M820 96L792 225L940 236L990 110" stroke="#22D3EE" stroke-opacity="0.28" stroke-width="2"/>
+    <path d="M900 76L875 165L1070 92L1088 170" stroke="#A78BFA" stroke-opacity="0.28" stroke-width="2"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <circle cx="820" cy="96" r="7" fill="#7C3AED"/>
+    <circle cx="900" cy="76" r="6" fill="#A78BFA"/>
+    <circle cx="990" cy="110" r="9" fill="#22D3EE"/>
+    <circle cx="1070" cy="92" r="6" fill="#38BDF8"/>
+    <circle cx="875" cy="165" r="8" fill="#22D3EE"/>
+    <circle cx="1088" cy="170" r="8" fill="#38BDF8"/>
+    <circle cx="792" cy="225" r="6" fill="#7C3AED"/>
+    <circle cx="940" cy="236" r="8" fill="#22D3EE"/>
+    <circle cx="1118" cy="236" r="6" fill="#38BDF8"/>
+  </g>
+
+  <circle cx="990" cy="110" r="18" stroke="#22D3EE" stroke-opacity="0.35" stroke-width="1.4"/>
+  <circle cx="1088" cy="170" r="15" stroke="#38BDF8" stroke-opacity="0.28" stroke-width="1.4"/>
+
+  <text x="815" y="282" fill="#64748B" font-size="11" letter-spacing="2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">ANALYSIS / MODELS / DATA / EXPERIMENTS</text>
+</svg>
