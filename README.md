@@ -16,7 +16,7 @@
 
 <p align="center">
   <img
-    src="./assets/cu-shin.png"
+    src="./assets/cu_shin.jpg"
     width="320"
     alt="Cu Shin"
   />
