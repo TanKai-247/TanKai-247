@@ -12,7 +12,15 @@
     alt="Tấn Khải — Data Science & Machine Learning"
   />
 </p>
+```
 
+<p align="center">
+  <img
+    src="./assets/cu-shin.png"
+    width="320"
+    alt="Cu Shin"
+  />
+</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
