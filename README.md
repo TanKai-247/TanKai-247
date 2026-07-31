@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/TanKai-247/TanKai-247/main/assets/profile-header.svg"
+    src="./assets/profile-header.svg?v=2"
     width="100%"
     alt="Tấn Khải — Data Science & Machine Learning"
   />
