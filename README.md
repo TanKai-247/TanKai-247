@@ -95,7 +95,6 @@ focus:
   />
 </p>
 
-> Nếu phần này chưa hiện, hãy chạy workflow **Metrics** một lần trong tab **Actions**.
 
 ---
 
